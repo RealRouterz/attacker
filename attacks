@@ -404,7 +404,7 @@ echo "      ░   ▒    ░        ░        ░   ▒   ░        ░ ░░
 echo "          ░  ░                       ░  ░░ ░      ░  ░      ░  ░   ░     "
 echo "                                         ░                               "
 echo ""
-echo -e "$white       |--------- Author: Mr. H4CK3R | FB.com/AriR.Abdulla ---------|"
+echo -e "$white       |--------- Author: Routerz | IG.com/realrouterz ---------|"
 echo "" && echo "" && echo "" && echo -e "$green" && sleep 0.9
 echo -e $BlueF"	[$white"01"$BlueF]$cyan  BotNet             $BlueF	[$white"05"$BlueF]$cyan  Hammer"
 echo -e $BlueF"	[$white"02"$BlueF]$cyan  SlowLoris          $BlueF	[$white"06"$BlueF]$cyan  Start AnonSurf"
